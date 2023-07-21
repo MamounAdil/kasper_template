@@ -72,7 +72,7 @@ header .header-content .my-hide {  cursor: pointer; color: #FFF }
 
 header .header-content .list { flex: 1; display: flex; justify-content: space-between }
 
-header .header-content .list li a { color: #FFF; font-weight: 600; padding-bottom: 24px }
+header .header-content .list li a { color: #FFF; font-weight: 600; padding-bottom: 23px }
 
 header .header-content .list li.active a,
 header .header-content .list li:hover a {
